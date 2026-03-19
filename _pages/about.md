@@ -39,7 +39,7 @@ graduating ranked among the top students in my cohort.
       inter/intra-object relationships.
     </p>
     <p>
-      <a href="#">[Paper]</a> &nbsp;
+      <a href="https://arxiv.org/pdf/2603.17605">[Paper]</a> &nbsp;
       <a href="https://github.com/dfki-av/ReLaGS">[Code]</a>
     </p>
   </div>

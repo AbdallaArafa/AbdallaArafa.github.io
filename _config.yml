@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Abdalla Arafa"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher at AV Department, DFKI."
+  bio              : "Researcher at Augmented Vision Department, DFKI."
   location         : "Kaiserslautern, Germany"
   employer         : "DFKI AV"
   uri              : # URL
@@ -128,9 +128,8 @@ atom_feed:
   hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
 # SEO Related
-google_site_verification :
+google_site_verification : "S0KA4ZX9ah0zyzbKDrIaWTyXN75Qyra7mGosFQk9ok8"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -155,7 +154,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 

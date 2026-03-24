@@ -25,25 +25,48 @@ graduating ranked among the top students in my cohort.
 
 <div style="display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 4rem;">
   <div style="flex-shrink: 0; width: 280px;">
-    <img src="https://dfki-av.github.io/ReLaGS/assets/images/teaser.jpg" 
+    <img src="/images/ReLaGS_teaser.jpg" 
          alt="ReLaGS teaser" style="width: 100%; border-radius: 6px;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; padding: 0;"><a href="https://dfki-av.github.io/ReLaGS">ReLaGS: Relational Language Gaussian Splatting</a></h3>
     <strong style="display: block; margin-bottom: 0.2rem;">CVPR 2026</strong>
     Yaxu Xie*, <strong>Abdalla Arafa*</strong>, Alireza Javanmardi, Christen Millerdurai, Jia Cheng Hu, Shaoxiang Wang, Alain Pagani, Didier Stricker
+    <p style="display: block; margin-top: 0.5rem;">
+      <a href="https://arxiv.org/pdf/2603.17605">[Paper]</a> &nbsp;
+      <a href="https://github.com/dfki-av/ReLaGS">[Code]</a>
+    </p>
     <p style="display: block; margin-top: 0.2rem;">
       We present a novel framework that constructs a hierarchical language-distilled Gaussian 
       scene and its 3D semantic scene graph without scene-specific training, enabling efficient 
       and scalable open-vocabulary 3D reasoning by jointly modeling hierarchical semantics and 
       inter/intra-object relationships.
     </p>
-    <p>
-      <a href="https://arxiv.org/pdf/2603.17605">[Paper]</a> &nbsp;
-      <a href="https://github.com/dfki-av/ReLaGS">[Code]</a>
-    </p>
+    
   </div>
 </div>
+
+
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 4rem;">
+  <div style="flex-shrink: 0; width: 280px;">
+    <img src="/images/GHOST_teaser.png" 
+         alt="GHOST teaser" style="width: 100%; border-radius: 6px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; padding: 0;"><a href="https://ataboukhadra.github.io/ghost/">GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting</a></h3>
+    <strong style="display: block; margin-bottom: 0.2rem;">CVPR Findings 2026</strong>
+    Ahmed Tawfik Aboukhadra, Marcel Rogge, Nadia Robertini <strong>Abdalla Arafa</strong>, Jameel Malik, Ahmed Elhayek, Didier Stricker
+    <p style="display: block; margin-top: 0.5rem;">
+      <a href="https://arxiv.org/pdf/2603.18912">[Paper]</a> &nbsp;
+      <a href="https://github.com/ATAboukhadra/GHOST">[Code]</a>
+    </p>
+    <p style="display: block; margin-top: 0.2rem;">
+      GHOST is a fast, category-agnostic framework for reconstructing hand-object interactions from monocular RGB videos using 2D Gaussian Splatting. It represents hands and objects as dense Gaussian discs and uses geometric priors, grasp-aware alignment, and hand-aware background loss to produce physically consistent, complete, and animatable 3D reconstructions.
+    </p>
+    
+  </div>
+</div>
+
 
 <div style="display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 1rem;">
   <div style="flex-shrink: 0; width: 280px;">
@@ -54,15 +77,14 @@ graduating ranked among the top students in my cohort.
     <h3 style="margin-top: 0; padding: 0;"><a href="https://www.dfki.de/fileadmin/user_upload/import/14793_FG2024_SynthSL.pdf">SynthSL: Expressive Humans for Sign Language Image Synthesis</a></h3>
     <strong style="display: block; margin-bottom: 0.2rem;">IEEE FG 2024</strong>
     Jilliam M. Díaz Barros*, Chen-Yu Wang*, Jameel Malik, <strong>Abdalla Arafa</strong>, Didier Stricker<br>
-    
+  <p  style="display: block; margin-top: 0.5rem;">
+    <a href="https://www.dfki.de/fileadmin/user_upload/import/14793_FG2024_SynthSL.pdf">[Paper]</a> &nbsp;
+    <a href="https://github.com/jilliam/SynthSL">[Code]</a>
+  </p>
   <p style="display: block; margin-top: 0.2rem;">
     We introduce SynthSL, a large-scale synthetic dataset for sign language production, recognition 
     and translation, along with a rendering pipeline based on the SMPL-X body model. We additionally 
     propose a new Swin Transformer-based generator for sign image synthesis conditioned on body pose and appearance.
-  </p>
-  <p>
-    <a href="https://www.dfki.de/fileadmin/user_upload/import/14793_FG2024_SynthSL.pdf">[Paper]</a> &nbsp;
-    <a href="https://github.com/jilliam/SynthSL">[Code]</a>
   </p>
   </div>
 </div>

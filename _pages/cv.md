@@ -51,11 +51,15 @@ redirect_from:
 ## Publications
 
 **ReLaGS: Relational Language Gaussian Splatting**
-Yaxu Xie\*, Abdalla Arafa\*, Alireza Javanmardi, Christen Millerdurai, Jia Cheng Hu, Shaoxiang Wang, Alain Pagani, Didier Stricker
+Yaxu Xie\*, **Abdalla Arafa\***, Alireza Javanmardi, Christen Millerdurai, Jia Cheng Hu, Shaoxiang Wang, Alain Pagani, Didier Stricker
 *CVPR 2026* · \*Equal contribution
 
+**GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting**  
+Ahmed Tawfik Aboukhadra, Marcel Rogge, Nadia Robertini, **Abdalla Arafa**, Jameel Malik, Ahmed Elhayek, Didier Stricker  
+*CVPR Findings 2026* ·
+
 **SynthSL: Expressive Humans for Sign Language Image Synthesis**
-Jilliam M. Díaz Barros\*, Chen-Yu Wang\*, Jameel Malik, Abdalla Arafa, Didier Stricker
+Jilliam M. Díaz Barros\*, Chen-Yu Wang\*, Jameel Malik, **Abdalla Arafa**, Didier Stricker
 *IEEE FG 2024* · \*Equal contribution
 
 ---
